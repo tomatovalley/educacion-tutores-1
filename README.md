@@ -1,7 +1,39 @@
-# Equipo TU_EQUIPO
+### Features
 
-Aquí deberás escribir toda la información de tu proyecto.
+- Registro gratuito.
+-Pagos en linea.
+-Salas de vídeo conferencia
+-Personalización de perfiles
+-Sistema de calificación por experiencia del usuario.
+-Comentarios de valoración del servicio.
+-Chat asesorado-asesor.
+-Creación de grupos de asesorías.
+-Flexibilidad de precios hora/asesoria.
 
-Antes de comenzar, por favor revisa las [las instrucciones](INSTRUCTIONS.md).
+# Editor.md
 
-![Hack Hero gif](https://media.giphy.com/media/IbHp2s31XVjCyfGZ5L/giphy.gif)
+![](https://github.com/angel24r/Tutores1/blob/master/app/src/main/res/drawable/logo.png)
+
+
+
+##Herraminetas de trabajo
+-Android Studio
+-FireBase
+-Api Login google
+-Api paypal(no implementada)
+
+
+
+-------------
+
+ 
+----
+
+###Images
+
+Logo:
+
+![](https://github.com/angel24r/Tutores1/blob/master/app/src/main/res/drawable/tutores.png)
+![](https://github.com/angel24r/Tutores1/blob/master/app/src/main/res/drawable/imagenfon.jpg)
+
+###End
